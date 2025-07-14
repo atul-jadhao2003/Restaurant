@@ -2,9 +2,14 @@
 
 Welcome to A.J.Patil
 
-Basic Thali---120
-Gold Thali----220
-Dulex Thali---320
+Basic Chicken Thali---120
+Gold Chicken Thali----220
+Dulex Chicken Thali---320
 
 Checken Fry---100
 Alani Rassa---70
+
+
+Basic Mutton Thali---180
+Gold Mutton Thali----280
+Dulex Mutton Thali---380
